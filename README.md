@@ -26,8 +26,8 @@ II. Uploading of the Dataset into Google Drive\
 III. Mounting the drive to our google colab python notebook\
 IV. Importing the Necessary Packages (os,numpy,Counter,GaussianNB,accuracy_score)\
 V. Reading the Dataset\
-VI. # Defining a function with 3000 most common words from all emails\
-VII. # Defining a function which extracts feature columns and populates their values\
+VI.  Defining a function with 3000 most common words from all emails\
+VII. Defining a function which extracts feature columns and populates their values\
 VIII. Calculating accuracy scores for predicting labels\
 IX. Observations and Findings from the output
 
